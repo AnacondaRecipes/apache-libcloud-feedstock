@@ -25,7 +25,7 @@ requirements:
 
 test:
   imports:
-    - apache_libcloud
+    - libcloud
   commands:
     - pip check
   requires:
